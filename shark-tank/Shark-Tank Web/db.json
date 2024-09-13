@@ -1,0 +1,62 @@
+{
+  "pitches": [
+    {
+      "id": "8",
+      "title": "Quirky Naari",
+      "image": "https://m.media-amazon.com/images/I/71Wa7-cOUqL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "shooes",
+      "founder": "Malvica Saxena",
+      "price": "88888"
+    },
+    {
+      "id": "9",
+      "title": "laxmi",
+      "image": "https://static.wixstatic.com/media/5755f6_023c4baf970a43e4b187f7271a33fcad~mv2.png/v1/crop/x_237,y_352,w_1328,h_1331/fill/w_614,h_614,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/5755f6_023c4baf970a43e4b187f7271a33fcad~mv2.png",
+      "category": "Education",
+      "founder": "Rutvij Dasadia ",
+      "price": "540"
+    },
+    {
+      "id": "21",
+      "title": "Electronics",
+      "image": "https://www.primebook.in/uploads/feature/1675677835_d887598e98a67da677f0.png",
+      "category": "Electronics",
+      "founder": "Chitranshu Mahant",
+      "price": "753"
+    },
+    {
+      "id": "94d5",
+      "title": "product",
+      "image": "https://m.media-amazon.com/images/I/41bkMtA7usL._SX300_SY300_QL70_FMwebp_.jpg",
+      "category": "Electronics",
+      "founder": "Apple",
+      "price": "66,000"
+    },
+    {
+      "id": "3ac6",
+      "title": "Electronics",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-8FZebPk9x6dEY5IGI_3IPpUO66kxCfCBUa4NG76TTZ_Z3g1yWPA5afooFIyvVuMJ3M&usqp=CAU",
+      "category": "Electronics",
+      "founder": "Apple",
+      "price": "89,000"
+    },
+    {
+      "id": "a0b6",
+      "title": "care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVkK2L4IaTe0-6RX0IMAYjIjbWa8XygGeOJw&s",
+      "category": "Personal-Care",
+      "founder": "Nayka Fashion",
+      "price": "2200"
+    },
+    {
+      "id": "8168",
+      "title": "nayka",
+      "image": "https://nayaglow.com/cdn/shop/files/strengthen-me-or-everyday-day-cream-skin-barrier-cream-cream-naya-naya-nayaglow-com-1.jpg?v=1713870322&width=720",
+      "category": "mekup",
+      "founder": "janvahi kappor",
+      "price": "22222"
+    }
+  ]
+}
+
+
